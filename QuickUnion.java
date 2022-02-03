@@ -37,7 +37,10 @@ public class QuickUnion{
             }
             
            public static void main (String[] args) {
+               // Can enter size of array using N = scnr.nextInt();
+               // and manually enter array in the constructor
                 QuickUnion quickunion = new QuickUnion(10);
+               
                 System.out.println("The values in the array " + Arrays.toString(quickunion.getId()));
                  System.out.println("Union 4, 3");
                  quickunion.union(4,3);
