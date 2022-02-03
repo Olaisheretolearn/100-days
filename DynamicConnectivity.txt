@@ -1,0 +1,8 @@
+Steps to developing a Useful algorithm
+  - Model the problem
+  - Find the algorithm to solve it 
+  - Fast enough?  Fits in memory?
+  -If not why?
+  - FInd a way to address the problem
+  - iterate until satisfied
+  
