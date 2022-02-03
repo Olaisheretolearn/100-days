@@ -51,6 +51,12 @@ public class QuickUnion{
                  quickunion.union(6,5);
                  System.out.println("is 6 and 5 connected ? " +quickunion.connected(6,5) );
                   System.out.println("The values in the array " + Arrays.toString(quickunion.getId()));
+                quickunion.union(9,4);
+                 System.out.println("is 9 and 4 connected ? " +quickunion.connected(9,4) );
+                  System.out.println("The values in the array " + Arrays.toString(quickunion.getId()));
+                   quickunion.union(2,1);
+                 System.out.println("is 2 and 1 connected ? " +quickunion.connected(2,1) );
+                  System.out.println("The values in the array " + Arrays.toString(quickunion.getId()));
             }
         }
         
