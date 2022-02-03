@@ -17,6 +17,8 @@ public class QuickFindUF{
         this.id  = new int [N];
         for (int i=0;i < N ; i++){
             this.id[i] = new Random().nextInt(10)+1;
+            // this.id = new int[]{0,1,2,3,4,5,6,7,8,9};
+            //custom array instead of generating random arrays
         }
     }
     
