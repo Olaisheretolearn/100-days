@@ -5,4 +5,17 @@ Steps to developing a Useful algorithm
   -If not why?
   - FInd a way to address the problem
   - iterate until satisfied
+
+To know
+  -Tarjan's Algorithm 
+  -Kosaraju's ALgorithm for Strongly connected components
+  -Eulerian Path and circuit for undirected graph
+  - Fleury's Algorithm for printing Eulerian Algorithm
+  - Hierholzer'es Algorithm 
+  -Floyyd Warshall algorithm
+  -Kruskal's Algorithm
+  -DIjkstra;s Algorithm
+  
+
+
   
